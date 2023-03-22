@@ -2,9 +2,10 @@
 ** Please provide a short description of the changes proposed in this Pull Request **
 
 ## Type of Change
+- [ ] Refactor (non-breaking change which improves code quality but does not change functionality)
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that can cause existing functionality to not work as expected)
+- [ ] **Breaking change** (fix or feature that can cause existing functionality to not work as expected)
 
 ## Code Review Checklist
 - [ ] Commits are self-contained, and commit messages conform to the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) specification
