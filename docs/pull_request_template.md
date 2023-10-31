@@ -19,4 +19,4 @@
 
 ---
 
-[ ] **Ticket should be moved to `DEV DONE` after merging this PR**
+- [ ] **Ticket should be moved to `DEV DONE` after merging this PR**
