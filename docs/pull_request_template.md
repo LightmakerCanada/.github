@@ -19,4 +19,4 @@
 
 ---
 
-- [ ] **Ready for release**
+- [ ] **Ready for QA**
