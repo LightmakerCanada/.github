@@ -9,7 +9,6 @@
 
 ## Code Review Pre-Checklist
 - [ ] Commits are self-contained, deployable units of work
-- [ ] Commit messages conform to the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) specification
 - [ ] Code conforms to LMPM [Functional Programming](https://inhabitiq.atlassian.net/wiki/spaces/LMP/pages/3025043460/4.+Functional+Programming) and [Code Style](https://inhabitiq.atlassian.net/wiki/spaces/LMP/pages/3024912390/5.+Code+Style) guidelines
 - [ ] Code is [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (e.g. duplicated logic has been refactored into reusable functions rather than copied and pasted)
 - [ ] All code paths have correctly implemented [error handling](https://inhabitiq.atlassian.net/wiki/spaces/LMP/pages/3025043480/7.+Error+Handling)
