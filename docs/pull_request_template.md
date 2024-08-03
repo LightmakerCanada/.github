@@ -7,5 +7,4 @@
 ## Checklist
 - [ ] Commits are [atomic](https://inhabitiq.atlassian.net/wiki/x/WQDgtw)
 - [ ] Code aligns with the [developer handbook guidelines](https://inhabitiq.atlassian.net/wiki/x/EYD2tw)
-- [ ] Tests are passing locally
 - [ ] Documentation has been updated if necessary
